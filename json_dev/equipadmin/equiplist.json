@@ -1,0 +1,82 @@
+
+{
+    "code": 1,
+    "msg": "查询成功",
+    "data": {
+        "pages": 15,
+        "datalist": [ {
+                "area": 1,
+                "deviceType": 2,
+                "netArea": 2,
+                "ip": "10.10.10.100",
+                "icon": "1123",
+                "deviceId": 1,
+                "deviceName": "测试"
+            },
+            {
+                "area": 1,
+                "deviceType": 2,
+                "netArea": 2,
+                "ip": "10.10.10.100",
+                "icon": "1123",
+                "deviceId": 3,
+                "deviceName": "名称"
+            },
+            {
+                "area": 1,
+                "deviceType": 2,
+                "netArea": 2,
+                "ip": "10.10.10.100",
+                "icon": "1123",
+                "deviceId": 4,
+                "deviceName": "名称"
+            },
+            {
+                "area": 1,
+                "deviceType": 2,
+                "netArea": 2,
+                "ip": "10.10.10.100",
+                "icon": "1123",
+                "deviceId": 5,
+                "deviceName": "名称"
+            },
+            {
+                "area": 1,
+                "deviceType": 2,
+                "netArea": 2,
+                "ip": "10.10.10.100",
+                "icon": "1123",
+                "deviceId": 6,
+                "deviceName": "测试"
+            },
+            {
+                "area": 1,
+                "deviceType": 2,
+                "netArea": 2,
+                "ip": "10.10.10.100",
+                "icon": "1123",
+                "deviceId": 7,
+                "deviceName": "测试"
+            },
+            {
+                "area": 1,
+                "deviceType": 2,
+                "netArea": 2,
+                "ip": "10.10.10.100",
+                "icon": "1123",
+                "deviceId": 8,
+                "deviceName": "测试"
+            },
+            {
+                "area": 1,
+                "deviceType": 2,
+                "netArea": 2,
+                "ip": "10.10.10.100",
+                "icon": "1123",
+                "deviceId": 9,
+                "deviceName": "测试"
+            }],
+        "total": 230
+    },
+    "ext": ""
+}
